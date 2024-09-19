@@ -1,4 +1,4 @@
-## Hi there 👋
+## Jeongyoon Im / 임정윤 👩
 
 <!--
 **jungyun0310/jungyun0310** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
