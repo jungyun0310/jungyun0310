@@ -2,13 +2,13 @@
 
 Backend / Data Analysis
 
-#### Notion
-<a href="https://www.notion.so/c481848d1f9948d5ba7c59265fad3a4d">포트폴리오</a>
+#### Notion 🖐
+<a href="https://hospitable-pantydraco-e21.notion.site/c481848d1f9948d5ba7c59265fad3a4d?pvs=74"><img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"></a>
 
-#### Studying
-<a href="https://hospitable-pantydraco-e21.notion.site/c481848d1f9948d5ba7c59265fad3a4d?pvs=74">공부중~</a>
+#### Studying 📕
+<a href="https://hospitable-pantydraco-e21.notion.site/c481848d1f9948d5ba7c59265fad3a4d?pvs=74"><img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"></a>
 
-#### Skill
+#### Skill 👑
 <div>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
   <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
