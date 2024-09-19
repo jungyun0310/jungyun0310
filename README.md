@@ -24,7 +24,5 @@ Backend / Data Analysis
 
 </br>
 </br>
-</br>
-</br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jungyun0310&layout=compact)](https://github.com/jungyun0310/github-readme-stats)
